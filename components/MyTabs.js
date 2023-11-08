@@ -14,7 +14,7 @@ export default function MyTabs() {
         headerShown:false,
         tabBarInActiveTintColor:'gray',
         tabBarActiveBackgroundColor:'white',
-        tabBarActiveBackgroundColor:'purple'
+        tabBarActiveBackgroundColor:'orange'
     }}
     
     >
